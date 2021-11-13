@@ -3,10 +3,6 @@
 	padding: 0;
 }
 
-body{
-    background: #3d617f;
-}
-
 .wrapper{
 	position: absolute;
 	top: 50%;
@@ -15,7 +11,7 @@ body{
 }
 
 .MyCalculator{
-	background: rgb(100, 99, 99);
+	background: #8b99a2;
 	padding: 10px;
 	border-radius: 10px;
 }
